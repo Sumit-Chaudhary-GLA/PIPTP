@@ -1,12 +1,17 @@
 <b><u>Problem 1</u></b> 
 
-void fun( Integer w, Integer x)
+
+
+```text
+Function fun(Integer w, Integer x)
     Integer y
-    set y = 0
-    if (x mod w EQUALS 0) or (w mod x EQUALS 0)
+    Set y = 0
+
+    If (x mod w == 0) OR (w mod x == 0)
         y = y + 1
     Else
         y = y + 10
-    Else if   
-    print y
-End Function fun()
+
+    Print y
+End Function
+
