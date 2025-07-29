@@ -1,8 +1,5 @@
-<b><u>Problem 1</u></b> 
-
-
-
-```text
+####Problem
+-------------
 Function fun(Integer w, Integer x)
     Integer y
     Set y = 0
@@ -17,4 +14,5 @@ End Function
 
 
 
-<b><u>Approach</u></b>
+####Aproach
+---------
