@@ -1,4 +1,4 @@
-####Problem
+### Problem
 -------------
 Function fun(Integer w, Integer x)
     Integer y
@@ -14,5 +14,5 @@ End Function
 
 
 
-####Aproach
+### Aproach
 ---------
