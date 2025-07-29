@@ -1,6 +1,6 @@
 ### Problem
 -------------
-- Function fun(Integer w, Integer x)
+* Function fun(Integer w, Integer x)
 - Integer y
 - Set y = 0
 - If (x mod w == 0) OR (w mod x == 0)
@@ -8,7 +8,7 @@
 - Else
   - y = y + 10
 - Print y
-- End Function
+- End Function *
 
 -----
 ### Aproach
