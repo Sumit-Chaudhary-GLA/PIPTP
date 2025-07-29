@@ -15,3 +15,6 @@ Function fun(Integer w, Integer x)
     Print y
 End Function
 
+
+
+<b><u>Approach</u></b>
